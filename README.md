@@ -93,6 +93,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * Cratejoy - https://www.cratejoy.com/
 * Celery - https://www.trycelery.com/
 * 3dcart - https://www.3dcart.com/
+* Snipcart - https://snipcart.com/
 
 ##### Competitive & User Research
 
