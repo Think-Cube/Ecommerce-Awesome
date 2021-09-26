@@ -1,6 +1,6 @@
 # Awesome E-commerce
 
-![Ecommerce-Awesome](https://img.shields.io/github/issues/spy86/Ecommerce-Awesome.svg) ![Ecommerce-Awesome](https://img.shields.io/github/forks/spy86/Ecommerce-Awesome.svg) ![Ecommerce-Awesome](https://img.shields.io/github/stars/spy86/Ecommerce-Awesome.svg) ![Ecommerce-Awesome](https://img.shields.io/github/license/spy86/Ecommerce-Awesome.svg) ![Ecommerce-Awesome](https://img.shields.io/twitter/url/https/github.com/spy86/Ecommerce-Awesome.svg?style=social)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 List of popular marketing tools and add-ons which are used by e-commerce stores.
