@@ -5,212 +5,277 @@
 
 List of popular marketing tools and add-ons which are used by e-commerce stores.
 
-##### Social Media
+---
 
-* Hootsweet - https://hootsuite.com/
-* Tweetdeck - https://tweetdeck.com/
-* Buffer - https://buffer.com/
-* Bit.ly - https://bit.ly/
-* SproutSocial - http://sproutsocial.com/
-* Agorapulse - http://www.agorapulse.com/
-* Sprinklr - http://www.agorapulse.com/
-* Dlvr.it - https://dlvr.it/
-* Mention - https://mention.com/
-* Cyfe - http://www.cyfe.com/
+### 🧵 Social Media
 
-##### Email Marketing
+* [Hootsuite](https://hootsuite.com/) – manage and schedule posts across multiple social platforms.
+* [Tweetdeck](https://tweetdeck.com/) – real-time Twitter management dashboard.
+* [Buffer](https://buffer.com/) – post planning with performance analytics.
+* [Bit.ly](https://bit.ly/) – URL shortening and click tracking.
+* [SproutSocial](http://sproutsocial.com/) – social media publishing and engagement analytics.
+* [Agorapulse](http://www.agorapulse.com/) – social inbox and reporting for teams.
+* [Sprinklr](http://www.sprinklr.com/) – enterprise customer experience & social marketing.
+* [Dlvr.it](https://dlvr.it/) – automated content distribution to social channels.
+* [Mention](https://mention.com/) – real-time brand mention monitoring across web and networks.
+* [Cyfe](http://www.cyfe.com/) – all-in-one business dashboard including social stats.
 
-* SendGrid - https://sendgrid.com/
-* MailChimp - https://mailchimp.com/
-* Campaign Monitor - https://www.campaignmonitor.com/
-* Bronto - https://bronto.com/
-* Mailjet - https://www.mailjet.com/
-* Betaout - https://www.betaout.com/
-* Hiver - https://hiverhq.com/
-* Good Email Copy - https://www.goodemailcopy.com/
 
-##### Customer Support
+---
 
-* Zendesk - https://zendesk.com/
-* Desk - https://desk.com/
-* Helpscout - https://helpscout.net/
-* Intercom - https://intercom.io/
-* HappyFox - https://www.happyfox.com/
+### 📧 Email Marketing
 
-##### Live Chat
+* [Klaviyo](https://www.klaviyo.com/) – email & SMS automation tailored for e-commerce.
+* [Omnisend](https://www.omnisend.com/) – omnichannel campaigns: email, SMS, and web push.
+* [ActiveCampaign](https://www.activecampaign.com/) – CRM integrated with email workflows.
+* [Brevo (Sendinblue)](https://www.brevo.com/) – EU-friendly email/SMS marketing.
+* [Sender](https://www.sender.net/) – generous free tier for email campaigns.
+* [SendGrid](https://sendgrid.com/) – transactional and marketing email service.
+* [MailChimp](https://mailchimp.com/) – popular email marketing and automation.
+* [Campaign Monitor](https://www.campaignmonitor.com/) – drag-and-drop email creation.
+* [Bronto](https://bronto.com/) – email marketing for larger retailers.
+* [Mailjet](https://www.mailjet.com/) – collaborative email editor with API.
+* [Betaout](https://www.betaout.com/) – e-commerce focused email automation.
+* [Hiver](https://hiverhq.com/) – email sharing and collaboration in Gmail.
+* [Good Email Copy](https://www.goodemailcopy.com/) – inspiration for high-converting emails.
 
-* Zopim Live Chat - https://www.zopim.com/
-* LiveChat - https://www.livechatinc.com/
-* BoldChat - https://www.boldchat.com/
-* Olark - https://www.olark.com/
-* LivePerson - https://www.liveperson.com/
-* Live2Support - https://www.live2support.com/
-* Tagove Live Chat - https://www.tagove.com/
-* SnapEngage - https://snapengage.com/
 
-##### Advertising
+---
 
-* Google AdWords - https://adwords.google.com/
-* Facebook Ads - https://www.facebook.com/business/
-* Adroll - https://www.adroll.com/
-* Instagram Ads - https://business.instagram.com/advertising
+### 🧑‍💻 Customer Support
 
-##### Referrals
+* [Zendesk](https://zendesk.com/) - A cloud-based help desk solution offering ticketing, self-service, and customer support features, ideal for scalable support teams.
+* [Desk](https://desk.com/) - User-friendly customer support platform focusing on ticketing and workflow automation for small to medium businesses.
+* [Helpscout](https://helpscout.net/) - Email-based help desk software that feels like a shared inbox, with collaboration tools and knowledge base integration.
+* [Intercom](https://intercom.io/) - A customer messaging platform combining live chat, bots, email campaigns, and help desk tools in one.
+* [HappyFox](https://www.happyfox.com/) - A comprehensive help desk help desk software with ticketing, asset management, automation, and reporting.
 
-* ReferralCandy - https://www.referralcandy.com/
-* Channable - https://www.channable.com/
+---
 
-##### Design
+### 💬 Live Chat
 
-* Canva - https://www.canva.com/
-* Pexels - https://www.pexels.com/
-* Sketch App Resources - http://www.sketchappsources.com/
-* Sketch - https://www.sketchapp.com/
-* Code My UI - https://codemyui.com/
-* Beautiful Stores - https://beautifulstores.com/
+* [Zopim](https://www.zopim.com/) - 
+* [LiveChat](https://www.livechat.com/) - 
+* [BoldChat](https://www.boldchat.com/) - 
+* [Olark](https://www.olark.com/) - 
+* [LivePerson](https://www.liveperson.com/) - 
+* [Live2Support](https://www.live2support.com/) - 
+* [Tagove](https://www.tagove.com/) - 
+* [SnapEngage](https://snapengage.com/) - 
 
-##### SEO
+---
 
-* Google Trends - https://www.google.com/trends/
-* Open Site Explorer - https://moz.com/researchtools/ose/
-* SEMRush - https://www.semrush.com/
-* SEO Site Cleanup - https://seositecheckup.com/
-* Seomator - https://seomator.com/
-* Google Keyword Planner - https://adwords.google.com/KeywordPlanner
-* Lighthouse - https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk
+### 📢 Advertising
 
-##### E-commerce Platforms
+* [Google Ads](https://ads.google.com/) - 
+* [Meta Ads](https://www.facebook.com/business/) - 
+* [Instagram Ads](https://business.instagram.com/advertising) - 
+* [AdRoll](https://www.adroll.com/) - 
+* [Qwaya](http://www.qwaya.com/) - 
+* [Shoutlet (Spredfast)](http://www.spredfast.com/) - 
 
-* Shopify - https://www.shopify.com/
-* BigCommerce - https://www.bigcommerce.com/
-* Big Cartel - https://bigcartel.com/
-* Squarespace - https://www.squarespace.com/
-* Magento - https://www.magento.com/
-* WooCommerce - https://www.woothemes.com/woocommerce/
-* Gumroad - https://gumroad.com/
-* Storenvy - https://www.storenvy.com/
-* SendOwl - https://www.sendowl.com/
-* Cratejoy - https://www.cratejoy.com/
-* Celery - https://www.trycelery.com/
-* 3dcart - https://www.3dcart.com/
-* Snipcart - https://snipcart.com/
+---
 
-##### Competitive & User Research
+### 🤖 AI Marketing & Automation
 
-* Survey Monkey - https://www.surveymonkey.com/
-* Alexa Traffic Rank Toolbar - https://www.alexa.com/toolbar
-* MozBar - https://moz.com/tools/seo-toolbar
-* SimilarWeb - https://www.similarweb.com/
-* StaySavy - https://staysavy.com/
-* Google Alerts - https://www.google.com/alerts
-* TalkWalker - https://www.talkwalker.com/
-* Newsblur - https://www.newsblur.com/
-* Keyhole.co - https://keyhole.co/
-* User Report - https://www.userreport.com/
+* Google Performance Max - 
+* Meta Advantage+ - 
+* Adobe AI Agents - 
+* [Neuronwriter](https://neuronwriter.com/) - 
+* [Autoblogging.ai](https://autoblogging.ai/) - 
+* [Snov.io](https://snov.io/) - 
+* [Midjourney](https://www.midjourney.com/) – 
 
-##### Twitter
+---
 
-* Ritetag - https://ritetag.com/
-* Tagboard - https://tagboard.com/
-* Trendsmap - https://www.trendsmap.com/
-* Crowdfire - https://crowdfireapp.com/
-* Buffer - https://buffer.com/
+### 👥 Referrals
 
-##### Facebook
+* [ReferralCandy](https://www.referralcandy.com/) - 
+* [Channable](https://www.channable.com/) - 
 
-* Qwaya - http://www.qwaya.com/
-* Shoutlet - http://www.spredfast.com/
-* SocialApps HQ - http://www.socialappshq.com/
-* Crowdfire - https://crowdfireapp.com/
-* Buffer - https://buffer.com/
+---
 
-##### Analytics
+### 🎨 Design
 
-* Google Analytics - https://www.google.com/analytics/
-* Adobe Marketing Cloud - https://www.adobe.com/ca/marketing-cloud.html
-* Kissmetrics - https://www.kissmetrics.com/
-* Optimizely - https://www.optimizely.com/
-* Moz - https://moz.com/products
-* AHrefs - https://ahrefs.com/
-* Segment - https://segment.com/
-* Heap Analytics - https://heapanalytics.com/
-* Full Story - https://www.fullstory.com/
-* Google URL Builder - https://ga-dev-tools.appspot.com/campaign-url-builder/ref=ncikparsons.io
+* [Canva](https://www.canva.com/) - 
+* [Pexels](https://www.pexels.com/) - 
+* [Sketch App Resources](http://www.sketchappsources.com/) - 
+* [Sketch](https://www.sketchapp.com/) - 
+* [Code My UI](https://codemyui.com/) - 
+* [Beautiful Stores](https://beautifulstores.com/) - 
 
-##### Fulfillment
+---
 
-* ShipStation - https://app.shipstation.com/
-* Shipping Easy - https://shippingeasy.com/
-* Shippo - https://goshippo.com/
-* ShipWorks - https://www.shipworks.com/
-* Shipwire - https://www.shipwire.com/
-* ShipLark - https://www.shiplark.com/
+### 🔍 SEO
 
-##### Freelance
+* [SEMRush](https://www.semrush.com/) - 
+* [Ahrefs](https://ahrefs.com/) - 
+* [Moz](https://moz.com/) - 
+* [Google Trends](https://trends.google.com/) - 
+* [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) - 
+* [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - 
+* [SEO Site Checkup](https://seositecheckup.com/) - 
+* [Seomator](https://seomator.com/) - 
+* [Open Site Explorer](https://moz.com/link-explorer) - 
 
-* Bonsai - https://hellobonsai.com/
-* Upwork - https://www.upwork.com/
-* Nick Parsons - https://nickparsons.io/
+---
 
-##### Mobile Experience
+### ⚡ AEO (Answer Engine Optimization)
 
-* Shopgate - https://www.shopgate.com/
-* Zuznow - https://www.zuznow.com/
-* MobiCart - https://www.mobi-cart.com/
-* Localz - https://localz.com/
+* [Google Structured Data](https://developers.google.com/search/docs/appearance/structured-data/intro) - 
+* [Bing Chat Submission](https://www.bing.com/webmasters/) - 
+* [AEO.dev](https://www.aeo.dev/) – 
 
-##### Blogs
+---
 
-* Unbounce - https://unbounce.com/blog/
-* Backlinko - https://backlinko.com/
-* Convince and Convert - https://www.convinceandconvert.com/
-* ConversionXL - https://conversionxl.com/blog/
+### 🛍 E-commerce Platforms
 
-##### Instagram
+* [Shopify](https://www.shopify.com/) - 
+* [BigCommerce](https://www.bigcommerce.com/) - 
+* [WooCommerce](https://woocommerce.com/) - 
+* [Magento](https://www.magento.com/) - 
+* [Squarespace](https://www.squarespace.com/) - 
+* [Wix](https://www.wix.com/) - 
+* [Gumroad](https://gumroad.com/) - 
+* [Storenvy](https://www.storenvy.com/) - 
+* [SendOwl](https://www.sendowl.com/) - 
+* [Cratejoy](https://www.cratejoy.com/) - 
+* [Celery](https://www.trycelery.com/) - 
+* [3dcart](https://www.3dcart.com/) - 
+* [Snipcart](https://snipcart.com/) - 
 
-* Liketoknow.it - https://liketoknow.it/
-* IconoSquare - https://pro.iconosquare.com/
-* Link Big - http://www.link-big.com/
-* Buffer - https://buffer.com/
+---
 
-##### Website Optimization & SSL
+### 🔬 Competitive & User Research
 
-* PageSpeed Insights - https://developers.google.com/speed/pagespeed/insights/
-* Comodo - https://www.comodo.com/
-* Cloudflare - https://cloudflare.com/
-* Google Mobile Friendly Test - https://www.google.com/webmasters/tools/mobile-friendly/
+* [SurveyMonkey](https://www.surveymonkey.com/) - 
+* [Alexa Traffic Rank](https://www.alexa.com/) - 
+* [MozBar](https://moz.com/tools/seo-toolbar) - 
+* [SimilarWeb](https://www.similarweb.com/) - 
+* [TalkWalker](https://www.talkwalker.com/) - 
+* [Google Alerts](https://www.google.com/alerts) - 
+* [Keyhole](https://keyhole.co/) - 
+* [User Report](https://www.userreport.com/) - 
+* [Newsblur](https://www.newsblur.com/) - 
 
-##### User Reviews
+---
 
-* PowerReviews - https://www.powerreviews.com/
-* Yotpo - https://www.yotpo.com/
-* Google My Business - https://www.google.com/business/
-* eRated - https://www.erated.co/
-* TurnTo(https://www.turntonetworks.com/
+### 🐦 Twitter
 
-##### Pinterest
+* [Ritetag](https://ritetag.com/) - 
+* [Tagboard](https://tagboard.com/) - 
+* [Trendsmap](https://www.trendsmap.com/) - 
+* [Crowdfire](https://crowdfireapp.com/) - 
+* [Buffer](https://buffer.com/) - 
 
-* Tailwind - https://www.tailwindapp.com/
-* Olapic - https://www.olapic.com/
-* Curalate - http://www.curalate.com/
+---
 
-##### Content Marketing
+### 📘 Facebook
 
-* Feedly - https://feedly.com/
-* Scoop.it - https://www.scoop.it/
-* Contentmarketer - https://contentmarketer.io/
+* [SocialAppsHQ](http://www.socialappshq.com/) - 
+* [Crowdfire](https://crowdfireapp.com/) - 
+* [Buffer](https://buffer.com/) - 
 
-##### Product Visibility
+---
 
-* Fits.me - https://www.fits.me/
-* Idomoo - https://idomoo.com/
-* Webyclip - https://www.webyclip.com/
-* Sirv - https://www.sirv.com/
-* 3dbin - https://www.3dbin.com/
-* Google Products - https://developers.google.com/search/docs/data-types/products
+### 📊 Analytics
 
-##### Checkout Optimization
+* [Google Analytics](https://analytics.google.com/) - 
+* [Adobe Marketing Cloud](https://www.adobe.com/ca/marketing-cloud.html) - 
+* [Kissmetrics](https://www.kissmetrics.com/) - 
+* [Optimizely](https://www.optimizely.com/) - 
+* [Heap](https://heapanalytics.com/) - 
+* [Segment](https://segment.com/) - 
+* [FullStory](https://www.fullstory.com/) - 
+* [Google URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) - 
 
-* BuzzSumo - https://buzzsumo.com/
-* Square Up - https://www.squareup.com/
-* SumoMe - https://sumome.com/
+---
+
+### 📦 Fulfillment
+
+* [ShipStation](https://www.shipstation.com/) - 
+* [ShippingEasy](https://shippingeasy.com/) - 
+* [Shippo](https://goshippo.com/) - 
+* [ShipWorks](https://www.shipworks.com/) - 
+* [Shipwire](https://www.shipwire.com/) - 
+* [ShipLark](https://www.shiplark.com/) - 
+
+---
+
+### 🧑‍🔧 Freelance & Productivity
+
+* [Bonsai](https://www.hellobonsai.com/) - 
+* [Upwork](https://www.upwork.com/) - 
+* [Fiverr](https://www.fiverr.com/) - 
+
+---
+
+### 📱 Mobile Experience
+
+* [Shopgate](https://www.shopgate.com/) - 
+* [Zuznow](https://www.zuznow.com/) - 
+* [MobiCart](https://www.mobi-cart.com/) - 
+* [Localz](https://localz.com/) - 
+
+---
+
+### 📝 Blogs & Content Marketing
+
+* [Unbounce](https://unbounce.com/blog/) - 
+* [Backlinko](https://backlinko.com/) - 
+* [Convince & Convert](https://www.convinceandconvert.com/) - 
+* [ConversionXL](https://conversionxl.com/blog/) - 
+* [Feedly](https://feedly.com/) - 
+* [Scoop.it](https://www.scoop.it/) - 
+* [ContentMarketer](https://contentmarketer.io/) - 
+
+---
+
+### 📷 Instagram & Pinterest
+
+* [Liketoknow.it](https://liketoknow.it/) - 
+* [IconoSquare](https://pro.iconosquare.com/) - 
+* [Link Big](http://www.link-big.com/) - 
+* [Tailwind](https://www.tailwindapp.com/) - 
+* [Olapic](https://www.olapic.com/) - 
+* [Curalate](http://www.curalate.com/) - 
+
+---
+
+### 🛒 Checkout Optimization
+
+* [BuzzSumo](https://buzzsumo.com/) - 
+* [Square](https://squareup.com/) - 
+* [Sumo](https://sumo.com/) - 
+* [Privy](https://www.privy.com/) - 
+* [ReConvert](https://reconvert.io/) - 
+
+---
+
+### ⚙️ Website Optimization & SSL
+
+* [PageSpeed Insights](https://pagespeed.web.dev/) - 
+* [Google Mobile Friendly Test](https://search.google.com/test/mobile-friendly) - 
+* [Cloudflare](https://cloudflare.com/) - 
+* [Comodo](https://www.comodo.com/) - 
+
+---
+
+### 🌟 User Reviews
+
+* [PowerReviews](https://www.powerreviews.com/) - 
+* [Yotpo](https://www.yotpo.com/) - 
+* [Google My Business](https://www.google.com/business/) - 
+* [eRated](https://www.erated.co/) - 
+* [TurnTo](https://www.turntonetworks.com/) - 
+
+---
+
+### 📽️ Product Visibility
+
+* [Fits.me](https://www.fits.me/) - 
+* [Idomoo](https://idomoo.com/) - 
+* [Webyclip](https://www.webyclip.com/) - 
+* [Sirv](https://www.sirv.com/) - 
+* [3dbin](https://www.3dbin.com/) - 
+* [Google Products Structured Data](https://developers.google.com/search/docs/data-types/products) - 
