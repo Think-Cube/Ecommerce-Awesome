@@ -115,6 +115,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [SEO Site Checkup](https://seositecheckup.com/) - Automated site health tool checking on‑page SEO, mobile usability, security, and more.
 * [Seomator](https://seomator.com/) - SEO audit tool evaluating on‑page SEO, technical SEO, and performance metrics.
 * [Open Site Explorer](https://moz.com/link-explorer) - Moz’s backlink analysis tool for exploring link profiles and domain authority.
+* [SpySeller](https://spyseller.com) - Free Etsy seller tools.
 
 ---
 
