@@ -86,6 +86,12 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 
 ---
 
+### 🤖 AI Commerce & Agentic Commerce
+
+* [Adapt or Die](https://adaptordie.io/) – Independent analysis of agentic commerce, AI product discovery, and how AI agents are reshaping ecommerce infrastructure and buyer behaviour.
+
+---
+
 ### 👥 Referrals
 
 * [ReferralCandy](https://www.referralcandy.com/) - Marketing automation platform for referral programs and incentivizing customer word‑of‑mouth referrals.
