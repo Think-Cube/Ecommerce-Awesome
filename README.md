@@ -83,6 +83,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Autoblogging.ai](https://autoblogging.ai/) - AI-based blogging assistant that generates SEO-friendly posts and handles publishing workflows.
 * [Snov.io](https://snov.io/) - Outreach automation platform for cold email campaigns, lead generation, and CRM integration.
 * [Midjourney](https://www.midjourney.com/) – AI image-generation platform for creating marketing visuals, graphics, and creative inspiration.
+* [AdDogs](https://www.addogs.ai) - AI ad creative generator for e-commerce brands. Clones winning ad designs, injects your product photo and brand identity in 10 seconds. 14,000+ curated ad examples across 20 industries.
 
 ---
 
