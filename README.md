@@ -173,6 +173,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Trendsmap](https://www.trendsmap.com/) - Real-time map visualization of trending topics and hashtags on X by location.
 * [Crowdfire](https://crowdfireapp.com/) - Social media management tool for scheduling posts, tracking engagement, and growing followers on X and other platforms.
 * [Buffer](https://buffer.com/) - Popular social media scheduling and analytics tool that supports X along with Facebook, Instagram, and LinkedIn.
+* [Xquik](https://xquik.com/) - X automation API for tweet search, user lookup, monitoring, and campaign research workflows.
 
 ---
 
