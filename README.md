@@ -71,6 +71,8 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [AdRoll](https://www.adroll.com/) - Retargeting and prospecting advertising platform across display, social, and email channels.
 * [Qwaya](http://www.qwaya.com/) - Facebook and Instagram ad manager with scheduling, A/B testing, and bulk editing tools.
 * [Shoutlet (Spredfast)](http://www.spredfast.com/) - Social advertising and content management platform integrated with enterprise social media solutions.
+* [Ad Spend Scaling Simulator](https://calcrux.com/tools/ecommerce/ad-spend-scaling-simulator) - Free simulator to model how ad spend increases affect ROAS, revenue, and profit at scale before committing budget.
+* [Amazon ROAS Calculator](https://calcrux.com/tools/ecommerce/amazon-ads-roas-calculator) - Free tool to calculate Return on Ad Spend, break-even ROAS, and target ACoS for Amazon PPC campaigns.
 
 ---
 
