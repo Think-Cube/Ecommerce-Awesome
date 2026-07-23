@@ -80,6 +80,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 
 * Google Performance Max - AI-driven ad campaigns that optimize across Google’s channels using automated targeting and bidding.
 * Meta Advantage+ - AI-powered advertising campaigns on Facebook and Instagram with automated delivery and creative optimization.
+* [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code workflows for SEO, GEO, Google Ads, and Meta Ads, with optional hosted MCP connectors for live audits and account operations.
 * Adobe AI Agents - Intelligent agents within Adobe Experience Cloud to automate personalization, content, and campaign workflows.
 * [Neuronwriter](https://neuronwriter.com/) - AI content optimization tool that analyzes top-ranking pages to improve on-page SEO and readability.
 * [Autoblogging.ai](https://autoblogging.ai/) - AI-based blogging assistant that generates SEO-friendly posts and handles publishing workflows.
