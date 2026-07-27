@@ -94,6 +94,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 
 * [Adapt or Die](https://adaptordie.io/) – Independent analysis of agentic commerce, AI product discovery, and how AI agents are reshaping ecommerce infrastructure and buyer behaviour.
 * [Packrift Tools Hub](https://packrift.com/pages/tools) - Free packaging calculators and AI-commerce resources for carton fit, dimensional weight, and packaging procurement workflows.
+* [Ecommerce ChatGPT Prompts](https://www.xpay.sh/prompts/) - Free, copy-and-run ChatGPT prompt library for online stores: 924 prompts across 43 product categories and 10 marketing tasks.
 
 ---
 
