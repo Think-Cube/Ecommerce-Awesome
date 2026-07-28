@@ -47,6 +47,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Helpscout](https://helpscout.net/) - Email-based help desk software that feels like a shared inbox, with collaboration tools and knowledge base integration.
 * [Intercom](https://intercom.io/) - A customer messaging platform combining live chat, bots, email campaigns, and help desk tools in one.
 * [HappyFox](https://www.happyfox.com/) - A comprehensive help desk help desk software with ticketing, asset management, automation, and reporting.
+* [Bynevo Labs](https://bynevolabs.com) - Sovereign French AI agent for e-commerce customer support (SAV), self-hosted in France, GDPR-compliant, Mistral-based.
 
 ---
 
