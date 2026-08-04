@@ -321,6 +321,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Trustpilot](https://www.trustpilot.com/) - Global review platform where customers can share feedback and businesses can showcase verified reviews to improve reputation.
 * [Feefo](https://www.feefo.com/) - Trusted reviews and customer insights platform focused on authentic feedback collection to improve customer experience.
 * [Bazaarvoice](https://www.bazaarvoice.com/) - Enterprise-grade platform for collecting and displaying customer reviews, ratings, and Q&A to boost sales and loyalty.
+* [Shopify App Review Triage Worksheet](https://alfredtech2026.github.io/shopify-app-review-brief/tools/review-triage-worksheet.html?utm_source=think-cube-ecommerce-awesome&utm_medium=resource-directory&utm_campaign=inbound-validation) - Free, privacy-first browser tool that sorts public Shopify App Store reviews into P0-P3 buckets (incident risk, repeated friction, pricing confusion, feature requests) using transparent keyword heuristics; runs locally with no uploads, and output is not human-checked.
 
 ---
 
