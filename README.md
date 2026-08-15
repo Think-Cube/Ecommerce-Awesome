@@ -226,6 +226,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 
 ### 📦 Fulfillment
 
+* [CanWeShip](https://canweship.com/) - Free U.S. domestic shipping checker comparing preliminary USPS, UPS, and FedEx product restrictions with official source links.
 * [ShipStation](https://www.shipstation.com/) - Web-based shipping software designed for e-commerce retailers, streamlining order fulfillment with automation, discounted shipping rates, and integrations.
 * [ShippingEasy](https://shippingeasy.com/) - Easy-to-use shipping and inventory management solution that syncs with popular platforms like Shopify, Amazon, and WooCommerce.
 * [Shippo](https://goshippo.com/) - Shipping API and dashboard for creating labels, comparing carriers, tracking packages, and managing international shipments.
