@@ -115,6 +115,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Code My UI](https://codemyui.com/) - Inspiration gallery of modern UI/interaction snippets with code examples.
 * [Beautiful Stores](https://beautifulstores.com/) - Showcase of attractive e‑commerce store designs to inspire layout and branding.
 * [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor for e-commerce assets. Compress, resize, convert formats, remove backgrounds, and add watermarks to 1,000+ images at once — no upload, no account needed.
+* [PixGT](https://pixgt.cn) - AI visual engine for e-commerce and cross-border sellers. Generates product scene images from plain white-background photos, plus virtual clothing try-on, model swapping, jewelry and accessory try-on, and pose variations. Free credits on signup.
 
 ---
 
