@@ -129,7 +129,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [SEO Site Checkup](https://seositecheckup.com/) - Automated site health tool checking on‑page SEO, mobile usability, security, and more.
 * [Seomator](https://seomator.com/) - SEO audit tool evaluating on‑page SEO, technical SEO, and performance metrics.
 * [Open Site Explorer](https://moz.com/link-explorer) - Moz’s backlink analysis tool for exploring link profiles and domain authority.
-* [Shopify Collection Metadata QA Kit](https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/?utm_source=think-cube-ecommerce-awesome&utm_medium=resource-directory&utm_campaign=shopify-meta-qa) - Offline Excel workflow for checking Shopify collection titles, meta descriptions, handles, and length rules; offers a free 10-row fit check and a $19 buyer pack with no store access or subscription.
+* [Shopify Collection Metadata QA Kit](https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/?source=thinkcube-directory) - Offline Excel workflow for checking Shopify collection titles, meta descriptions, handles, and length rules; offers a free 10-row fit check and a $19 buyer pack with no store access or subscription.
 
 ---
 
