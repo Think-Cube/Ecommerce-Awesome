@@ -159,6 +159,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Celery](https://www.trycelery.com/) - Pre-order and crowdfunding platform for creators and startups to launch and manage early-stage product sales.
 * [3dcart](https://www.3dcart.com/) - All-in-one e-commerce solution with built-in marketing, SEO tools, and support for complex catalogs (now Shift4Shop).
 * [Snipcart](https://snipcart.com/) - Developer-friendly shopping cart you can add to any website using HTML and JavaScript, great for JAMstack and static sites.
+* [Naratake](https://naratake.com/en) - Website builder for local businesses with drag-and-drop editing and 40 industry starting points, offering online ordering and bookings at 0% commission through your own Stripe.
 
 ---
 
