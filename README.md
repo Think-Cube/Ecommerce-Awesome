@@ -88,6 +88,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Snov.io](https://snov.io/) - Outreach automation platform for cold email campaigns, lead generation, and CRM integration.
 * [Midjourney](https://www.midjourney.com/) – AI image-generation platform for creating marketing visuals, graphics, and creative inspiration.
 * [AdDogs](https://www.addogs.ai) - AI ad creative generator for e-commerce brands. Clones winning ad designs, injects your product photo and brand identity in 10 seconds. 14,000+ curated ad examples across 20 industries.
+* [AdMapix](https://www.admapix.com/) - AI ad creative intelligence platform for e-commerce teams to search competitor ads across major channels and turn creative patterns into research briefs.
 
 ---
 
@@ -116,6 +117,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Beautiful Stores](https://beautifulstores.com/) - Showcase of attractive e‑commerce store designs to inspire layout and branding.
 * [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor for e-commerce assets. Compress, resize, convert formats, remove backgrounds, and add watermarks to 1,000+ images at once — no upload, no account needed.
 * [DetailCut](https://softpeanut.github.io/detailcut/en.html) - Free browser-local tool that previews quieter cut lines and splits one long product-detail image into numbered JPG files in a ZIP; no upload or account.
+* [PixGT](https://pixgt.cn) - AI visual engine for e-commerce and cross-border sellers. Generates product scene images from plain white-background photos, plus virtual clothing try-on, model swapping, jewelry and accessory try-on, and pose variations. Free credits on signup.
 
 ---
 
