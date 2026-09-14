@@ -291,7 +291,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 
 * [BuzzSumo](https://buzzsumo.com/) - Content research platform that helps identify popular topics and influencers, useful for optimizing marketing strategies around checkout.
 * [Square](https://squareup.com/) - Payment processing and point-of-sale system offering seamless checkout solutions for online and offline retailers.
-* [Posnic POS](https://posnic.io/) - Open-source POS and billing software for retail shops and restaurants, with offline checkout and online/offline workflows. ([Source](https://github.com/Posnic/POS))
+* [Posnic POS](https://www.posnic.com/) - Open-source POS and billing software for retail shops and restaurants, with offline checkout and online/offline workflows. ([Source](https://github.com/Posnic/POS))
 * [Sumo](https://sumo.com/) - Suite of marketing tools focused on increasing website conversions, including email capture, social sharing, and cart abandonment recovery.
 * [Privy](https://www.privy.com/) - Conversion optimization platform providing pop-ups, email marketing, and cart abandonment tools to boost checkout rates.
 * [ReConvert](https://reconvert.io/) - Shopify app designed to increase average order value through optimized thank you pages and post-purchase upsells.
