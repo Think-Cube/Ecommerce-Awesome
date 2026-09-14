@@ -133,6 +133,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Seomator](https://seomator.com/) - SEO audit tool evaluating on‑page SEO, technical SEO, and performance metrics.
 * [Open Site Explorer](https://moz.com/link-explorer) - Moz’s backlink analysis tool for exploring link profiles and domain authority.
 * [Shopify Collection Metadata QA Checker](https://kndll33.github.io/shopify-collection-meta-qa-kit-preview/free-shopify-collection-seo-audit-template.html?source=thinkcube-directory) - Free local-only browser check for up to 10 exported Shopify collection rows; flags blank fields, duplicate descriptions, and review-length signals without uploading store data.
+* [ListTune](https://listtune.com/enrich) - AI-assisted eBay item-specific suggestions from a listing URL or manually entered facts. Three free uses without signup; sellers review suggestions before use, with no live listing changes.
 
 ---
 
