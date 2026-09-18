@@ -175,6 +175,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Keyhole](https://keyhole.co/) - Real-time social media analytics tool that tracks hashtags, keywords, accounts, and campaign performance.
 * [User Report](https://www.userreport.com/) - Feedback and survey tool for gathering insights directly from website users, including NPS and custom polls.
 * [Newsblur](https://www.newsblur.com/) - Personalized RSS reader that helps track industry news, competitor blogs, and curated content feeds.
+* [FlipWorth](https://flipworth.silentdirectivellc.com/?utm_source=think-cube-ecommerce-awesome&utm_medium=resource-directory) - Photo-based resale price research for secondhand sellers: snap an item and get an estimated resale range, a buy or pass verdict, a suggested list price and where to sell it. Free to try in the browser, also on iPhone.
 
 ---
 
