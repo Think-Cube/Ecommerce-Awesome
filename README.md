@@ -91,6 +91,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [AdMapix](https://www.admapix.com/) - AI ad creative intelligence platform for e-commerce teams to search competitor ads across major channels and turn creative patterns into research briefs.
 
 ---
+* [ThreadFox](https://threadfox.vip) - Reddit outreach for stores: an AI agent (Claude or Codex) reads each subreddit's rules, drafts posts and replies you approve, posts from your own browser and rechecks each post; or a done-for-you 30-day campaign.
 
 ### 🤖 AI Commerce & Agentic Commerce
 
