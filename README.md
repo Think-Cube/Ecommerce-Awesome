@@ -339,6 +339,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Fits.me](https://www.fits.me/) - Virtual fitting room solution that helps customers find the right size and fit for apparel, reducing returns and increasing satisfaction.
 * [Idomoo](https://idomoo.com/) - Personalized video platform that creates dynamic, customized videos to boost product engagement and conversion.
 * [Webyclip](https://www.webyclip.com/) - Interactive video platform that allows brands to create shoppable videos and rich media experiences to enhance product visibility.
+* [VideoGen](https://videogen.io/video-editor-for-ecommerce) - AI video editor for turning product images and scene-by-scene storyboards into product videos and ads.
 * [Sirv](https://www.sirv.com/) - Image hosting and optimization service that provides 360-degree spins, zoom, and fast-loading images to improve product presentation.
 * [3dbin](https://www.3dbin.com/) - 3D product visualization platform enabling interactive, high-quality 3D product models to increase customer engagement.
 * [Google Products Structured Data](https://developers.google.com/search/docs/data-types/products) - Schema markup guidelines from Google that enable enhanced search result listings with rich product information to improve visibility.
